@@ -1,7 +1,7 @@
 # PlantiBot 3000 🌱
 
 ## Descripción
-Sistema que riega plantas automáticamente cuando están secas.
+Sistema automatizado que detecta cuando las plantas están secas y activa el riego de forma automática para mantenerlas en condiciones óptimas.
 
 ## Usuario objetivo
 Personas con plantas en casa.
