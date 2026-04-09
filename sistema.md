@@ -8,6 +8,7 @@ Personas con plantas en casa.
 
 ## Entradas
 - Sensor de humedad (señal analógica)
+- Sensor de luz (señal analógica)
 
 ## Salidas
 - Bomba de agua (señal digital)
