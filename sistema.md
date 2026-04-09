@@ -12,3 +12,4 @@ Personas con plantas en casa.
 
 ## Salidas
 - Bomba de agua (señal digital)
+- Alerta visual (Led de colores según estado)
